@@ -1,2 +1,2 @@
 # pitch_gravity_compensation
-一个控制二维云台pitch轴控制补偿的方法
+4.将matlab输出的参数放到最终的测试代码damiao_gravity_compensate里面，就能直接测试这个重力补偿的适应性如何
