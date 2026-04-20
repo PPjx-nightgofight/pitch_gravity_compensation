@@ -1,2 +1,2 @@
 # pitch_gravity_compensation
-一个控制二维云台pitch轴控制补偿的方法
+2.使用damiao_angle_torque_get文件，这个文件具体就是在你设定的最大最小角度下，以每5度增加或减少来遍历你给定的次数，并在每个角度稳定的情况下通过串口发送给vofa+,在发送完成的基础上，需要将发送好的数据复制到txt文本里面，然后改成angle-torque.csv文件
