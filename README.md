@@ -1,2 +1,2 @@
 # pitch_gravity_compensation
-一个控制二维云台pitch轴控制补偿的方法
+3.将可以使用的angle-torque.csv文件放到parameter_get.m一样的文件夹里面然后可以通过matlab文件得到需要的参数
