@@ -1,0 +1,2 @@
+# pitch_gravity_compensation
+一个控制二维云台pitch轴控制补偿的方法
